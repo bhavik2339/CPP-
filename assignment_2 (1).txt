@@ -1,0 +1,16 @@
+                                    ASSIGNMENT_2
+What is member function?
+ Explain private member function in detail.
+Explain way’s to define a member functions in c++ (inside/outside).
+Write a note on making a outside function inline.
+Write a sort note on memory allocation for objects.
+Explain static data member & static member functionin detail.
+Explain array of objects.Explain friend function in detail.
+Explain const member function in detail.
+What is constructor Explain in detail.
+Write a note on multiple constructor in a class.
+Write a note on destructor.
+What is MIL ? Explain in detail with example.
+Write a sort note on default argument.
+Write a sort note on Dynamic Constructor.
+Write a sort note on Copy Constructor.
